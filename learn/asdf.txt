@@ -1,0 +1,1 @@
+ session.setAttribute("editid",rs.getString(1));%>
